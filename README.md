@@ -1,1 +1,1 @@
-# DataStructures-Lab-Sem-3-
+# Ds-lab-Sem-3-
